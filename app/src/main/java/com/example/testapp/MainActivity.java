@@ -56,5 +56,8 @@ public class MainActivity extends AppCompatActivity {
     public void just(){
       
     }
+    public void just2(){
+      
+    }
 
 }
